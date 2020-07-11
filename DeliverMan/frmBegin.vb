@@ -727,7 +727,7 @@ Public Class frmBegin
         '
         Me.AutoScaleBaseSize = New System.Drawing.Size(5, 14)
         Me.BackColor = System.Drawing.Color.DimGray
-        Me.ClientSize = New System.Drawing.Size(1292, 881)
+        Me.ClientSize = New System.Drawing.Size(1292, 711)
         Me.Controls.Add(Me.lbServerDB)
         Me.Controls.Add(Me.TabControl1)
         Me.Controls.Add(Me.GroupBox1)
