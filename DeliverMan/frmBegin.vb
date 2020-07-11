@@ -257,9 +257,9 @@ Public Class frmBegin
         '
         'Label4
         '
-        Me.Label4.Font = New System.Drawing.Font("Tahoma", 10.0!, System.Drawing.FontStyle.Bold)
+        Me.Label4.Font = New System.Drawing.Font("MS Reference Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.ForeColor = System.Drawing.Color.Yellow
-        Me.Label4.Location = New System.Drawing.Point(1038, 380)
+        Me.Label4.Location = New System.Drawing.Point(1037, 376)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(70, 24)
         Me.Label4.TabIndex = 39
